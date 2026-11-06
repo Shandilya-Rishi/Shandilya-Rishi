@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a CSE Undergrad freshman from India who loves creating stuff.<br><br>I’m currently learing ML and Cybersecurity<br><br>Slowly learning to contribute in open source projects
+I am a CSE Undergrad sophomore from India who loves creating stuff.<br><br>I’m currently learing ML and Cybersecurity<br><br>Slowly learning to contribute in open source projects
 
 
 ## 🌐 Socials:
